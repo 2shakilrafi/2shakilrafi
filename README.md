@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Shakil Rafi
-- 👀 I’m an aspiring Data Scientist and ML Engineer open to work.
-- 🌱 I’m currently finishing a PhD on the use of artificial neural networks to approximate differential equations
+- 👋 Hi, I’m Dr. Shakil Rafi
+- 👀 I’m a Data Scientist and ML Engineer open to work.
+- 🌱 I did my PhD on the use of artificial neural networks to approximate differential equations
 - 📫 Reach me at sarafi@uark.edu
 
 <!---
